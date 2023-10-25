@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Keane Athallah
 - 👀 I’m interested in Laravel, Golang, and Dart
-- 🌱 I’m currently learning Laravel
+- 🌱 I learned Laravel
+- ☘️ i'm currently learning Next Js
 - 📫 How to reach me
 - ig : https://www.instagram.com/keaneathallah/?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D
 
